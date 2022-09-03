@@ -15,3 +15,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/philosophy_note/contributions.svg" />
   </a>
 </p>
+
+<!-- ![Metrics](https://metrics.lecoq.io/philosophynote) -->
+![Metrics](https://github.com/philosophynote/philosophynote/blob/main/github-metrics.svg)
