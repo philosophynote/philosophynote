@@ -16,4 +16,8 @@
   </a>
 </p>
 
+my skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ruby,rails,py,django,aws,github,docker,mysql,postgres,vscode)](https://skillicons.dev)
 
+my skills of interest
+[![My Skills](https://skillicons.dev/icons?i=fastapi,pytorch,ts,vuenuxtjs,)](https://skillicons.dev)
