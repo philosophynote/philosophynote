@@ -1,4 +1,6 @@
-<p align="left">
+## :globe_with_meridians:relationship  
+
+<p align="center">
   <a href="https://github.com/philosophynote/philosophynote/">
     <img src="https://komarev.com/ghpvc/?username=philosophynote" alt="philosophynote" />
   </a>
@@ -15,9 +17,21 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/philosophy_note/contributions.svg" />
   </a>
 </p>
+  
+## :penguin:my skills  
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ruby,rails,py,django,aws,github,docker,mysql,postgres,vscode&theme=light&perline=5" />
+  </a>
+</p>
 
-my skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ruby,rails,py,django,aws,github,docker,mysql,postgres,vscode)](https://skillicons.dev)
+  
+## :running:my skills of interest
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,ts,vue,nuxtjs&theme=light&perline=5" />
+  </a>
+</p>
+  
 
-my skills of interest
-[![My Skills](https://skillicons.dev/icons?i=fastapi,pytorch,ts,vuenuxtjs,)](https://skillicons.dev)
+
