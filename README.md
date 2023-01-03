@@ -1,6 +1,11 @@
+
+# Myprofile
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ## :globe_with_meridians:relationship  
 
-<p align="center">
+<p style="align: center" >
   <a href="https://github.com/philosophynote/philosophynote/">
     <img src="https://komarev.com/ghpvc/?username=philosophynote" alt="philosophynote" />
   </a>
@@ -32,6 +37,3 @@
     <img src="https://skillicons.dev/icons?i=fastapi,pytorch,ts,vue,nuxtjs&theme=light&perline=5" />
   </a>
 </p>
-  
-
-
