@@ -2,10 +2,12 @@
 # Myprofile
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=philosophynote&show_icons=true&count_private=true" />
+  <!-- 1/12次のissueに従い変更 -->
+  <!-- https://github.com/anuraghazra/github-readme-stats/issues/2387 -->
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=philosophynote&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philosophynote" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=philosophynote" />
 </a>
 
 <!--START_SECTION:lapras-card-->
