@@ -7,8 +7,6 @@
 Last Updated on 12/19/2023, 12:18:31 AM</p>
 <!--END_SECTION:lapras-card-->
 
-  <img alt="github stats" height="200px" src="https://github-stats-cl9l.vercel.app/api?username=philosophynote" />
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=philosophynote)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## :globe_with_meridians:my SNS 
