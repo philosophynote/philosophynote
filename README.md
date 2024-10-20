@@ -1,6 +1,9 @@
 
 # Myprofile
 
+![Philosophynote's GitHub stats](https://github-stats-philosophynotes-projects.vercel.app/api?username=philosophynote&count_private=true&show_icons=true)
+
+
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/TJXWLOW" target="_blank" rel="noopener noreferrer"><img alt="TJXWLOW's scores on LAPRAS are as follows: Engineering: 3.69 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.55 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.69&b=3.48&i=3.55&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
@@ -35,6 +38,6 @@ Last Updated on 12/19/2023, 12:18:31 AM</p>
 ## :penguin:my skills  
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,vue,nuxtjs,react,ruby,rails,py,django,fastapi,aws,github,docker,mysql,postgres,vscode&theme=light&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,ruby,rails,py,django,fastapi,aws,github,docker,sentry,mysql,postgres,vscode,githubactions&theme=light&perline=5" />
   </a>
 </p>
