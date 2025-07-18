@@ -2,8 +2,8 @@
 # Myprofile
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/TJXWLOW" target="_blank" rel="noopener noreferrer"><img alt="TJXWLOW's scores on LAPRAS are as follows: Engineering: 3.92 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.65 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.92&b=3.43&i=3.65&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
-Last Updated on 7/17/2025, 12:29:40 AM</p>
+<p ><a href="https://lapras.com/public/TJXWLOW" target="_blank" rel="noopener noreferrer"><img alt="TJXWLOW's scores on LAPRAS are as follows: Engineering: 3.93 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.65 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.93&b=3.43&i=3.65&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
+Last Updated on 7/18/2025, 12:28:58 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=philosophynote)](https://github.com/ryo-ma/github-profile-trophy)
